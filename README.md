@@ -9,3 +9,6 @@ como iniciar, como criar componentes e como utilizar typecript, useState, useEff
 
 ![Alt text](image.png)
 ![Alt text](image-1.png)
+
+
+
